@@ -7,8 +7,8 @@ Team lead:
 My Role in team:
 1. To develop contactus page
 My development files:
-1. Contactus.html
-2.styles.css
+1. contact.html
+2.style.css
 I was strong in:
 1. HTML
 2. Css
